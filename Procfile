@@ -1,1 +1,3 @@
- web: gunicorn main:app
+Flask
+gunicorn
+web: gunicorn main:app
